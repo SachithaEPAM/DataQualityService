@@ -1,1 +1,5 @@
+# Give /docs/playbooks/mdm_solution folder to Person A
+/docs/playbook/sub/  sachitha_badrinath@epam.com
 
+# Everything else goes to others
+*                 sachitha_badrinath@epam.com
