@@ -1,5 +1,5 @@
-# Give /docs/playbooks/mdm_solution folder to Person A
-/docs/playbook/sub/  @SachithaEPAM
-
-# Everything else goes to others
-*                 @SachithaEPAM
+# Owner for the mdm_solution folder
+/docs/playbook/sub/  @ngarg1234
+ 
+# Owners for everything else
+*  @SachithaEPAM
